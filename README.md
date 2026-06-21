@@ -54,7 +54,7 @@ sequenceDiagram
     end
     Note over Recruiter: UI renders results on dashboard upon COMPLETED status.
 
-
+```
 
 
 
